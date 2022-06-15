@@ -1,1 +1,1 @@
-# A Simple HTML & CSS Project for Students.
+# A Simple HTML & CSS Project for Students
